@@ -1,0 +1,18 @@
+1681024373034	Delete elements
+1681024427222	Rename type 'DependencyInjectionApp'
+1681024553091	Rename package 'com.naveen.learnspringframework.dependencyInjection.example1'
+1681024561189	Delete element
+1681027388374	Copy package
+1681027413828	Rename type 'LazyInitializationApp'
+1681046890485	Copy package
+1681046925271	Rename type 'SingletonPrototypeExampleApp'
+1681046940763	Rename package 'com.naveen.learnspringframework.PostConstructPreConstruct'
+1681085859858	Rename type 'PostCnstructPreDestroyApp'
+1681096633521	Copy package
+1681096681569	Rename type 'LazyInitializationApp'
+1681097612685	Copy package
+1681097651407	Rename type 'JakartaCDIExampleApp'
+1681221276446	Rename type 'LazyInitializationApp'
+1681221304214	Rename type 'SingletonPrototypeExampleApp'
+1681477924098	Rename package 'com.naveen.learnspringframework.SingletonPrototypeScope'
+1681477967594	Rename package 'com.naveen.learnspringframework.LazyVSEagerInitialization'

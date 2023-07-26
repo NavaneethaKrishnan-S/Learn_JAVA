@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="E:\LEARNING JAVA\JAVA Spring and Spring Boot Framework\myFirstWebApp"/>
+			<item value="E:\LEARNING JAVA\JAVA Spring and Spring Boot Framework\learn-JPA-and-hibernate"/>
 			<item value="D:\JAVA Spring Framework (In28Minutes)\learn-spring-framework-02"/>
 			<item value="C:\Final-year-project"/>
 			<item value="D:\MCA\FOURTH_SEMESTER\EMINDS_PROJECT\rsp-core"/>
